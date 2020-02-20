@@ -76,11 +76,6 @@ public class Main {
         System.out.print("64 >> 3 == ");
         System.out.println(z); // 512
 
-//        y = 26; // количество
-//        z = (x << y);
-//        System.out.print("64 << 26 == ");
-//        System.out.println(Integer.toBinaryString(z)); // 0 - выход за пределы диапазона
-//
         System.out.print("35 >> 2 == ");
         System.out.println(35 >> 2); // 8
         // 35 : 2 = 17
